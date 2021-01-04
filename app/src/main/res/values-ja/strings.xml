@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github ユーザーアプリケーション 2</string>
+    <string name="name_users">Githubユーザー</string>
+    <string name="username">ユーザー名</string>
+    <string name="name">名前</string>
+    <string name="location">場所 : %s</string>
+    <string name="company">会社 : %s</string>
+    <string name="repository">倉庫 : %s</string>
+    <string name="followers">フォロワー</string>
+    <string name="following">フォロー</string>
+    <string name="search">ユーザー名を入力</string>
+    <string name="lang">言語設定の変更</string>
+</resources>

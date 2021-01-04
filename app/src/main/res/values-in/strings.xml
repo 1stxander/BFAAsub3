@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Pengguna Github Sub2</string>
+    <string name="name_users">Pengguna Github</string>
+    <string name="username">Username</string>
+    <string name="name">Nama</string>
+    <string name="location">Lokasi : %s</string>
+    <string name="company">Perusahaan : %s</string>
+    <string name="repository">Penyimpanan : %s</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="search">Isi Username</string>
+    <string name="lang">Ubah Bahasa</string>
+</resources>

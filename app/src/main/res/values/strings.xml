@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GithubUserAppSub3</string>
+    <string name="name_users">Github Users</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="location">Location : %s</string>
+    <string name="company">Company : %s</string>
+    <string name="repository">Repository : %s</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="search">Input Username</string>
+    <string name="lang">Change Languege</string>
+
+    <string name="change_notification_settings">Notification Settings</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="add_fav">"Favorite has been added"</string>
+    <string name="remove_fav">"Favorite has been removed"</string>
+    <string name="no_data">No Data</string>
+    <string name="reminder_setting">Reminder Setting</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="daily_message">New messasge received</string>
+</resources>
